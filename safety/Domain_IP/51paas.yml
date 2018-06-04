@@ -1,0 +1,37 @@
+application_name: AYSaaS-master
+title: 云
+desc: 云，创建个性应用，构建大数据企业
+keywords: '云 协作平台 云办公 大数据 SaaS 应用平台 开放平台'
+is_debug: false
+is_testing_api: false
+is_rcloud_push: true
+is_project: false
+skip_identity: true
+preview_domain: 'dp.qycloud.com.cn/op/view.aspx?src='
+appstore_lookup: 'http://itunes.apple.com/lookup?id=1067718664'
+appstore_page: 'https://itunes.apple.com/us/app/qi-ye-yun/id1067718664?l=zh&ls=1&mt=8'
+is_notice: true
+notice_email:
+    - 1125851000@qq.com
+menu_obj:
+    /api/message/menu: 站内短信
+    /api/store/menu: 文档管理
+is_browser_log: false
+is_info_log: false
+migration_init_version: '20120822094445'
+migration_initdata_version: '20120822110225'
+migration_limit_version: ''
+migration_checkTplTable: true
+open_menu_permission: true
+open_admin_config: false
+useSSL: false
+is_check: true
+is_socket: false
+is_socket_debug: false
+is_badjs: false
+baidu_mapkey: cMURp5Iy4EFGdGslu4VofGsVUj6zyZ2j
+RongCloud_AppKey: vnroth0kr9y0o
+RongCloud_AppSecret: 0YAD8OBGAcggD
+meiQiaSystemId: 53093
+showOutCustomer: true
+is_lead: true

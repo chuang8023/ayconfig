@@ -1,0 +1,41 @@
+application_name: AYSaaS-hbzhaj
+title: 湖北省安全生产监督管理局全国安全生产“一张图”建设项目
+desc: 湖北省安全生产监督管理局全国安全生产“一张图”建设项目
+keywords: 湖北省安全生产监督管理局全国安全生产“一张图”建设项目
+is_debug: true
+is_testing_api: false
+is_rcloud_push: true
+is_project: true
+skip_identity: true
+root_domain: 223.75.53.98
+www_domain: '223.75.53.98:8000'
+static_domain: '223.75.53.98:7002'
+fileio_domain: '223.75.53.98:8001'
+preview_domain: 'dp.qycloud.com.cn/op/view.aspx?src='
+appstore_lookup: 'http://itunes.apple.com/lookup?id=1067718664'
+appstore_page: 'https://itunes.apple.com/us/app/qi-ye-yun/id1067718664?l=zh&ls=1&mt=8'
+is_notice: true
+notice_email:
+    - 1125851000@qq.com
+menu_obj:
+    /api/message/menu: 站内短信
+    /api/store/menu: 文档管理
+is_browser_log: false
+is_info_log: false
+migration_init_version: '20120822094445'
+migration_initdata_version: '20120822110225'
+migration_limit_version: ''
+migration_checkTplTable: true
+open_menu_permission: true
+open_admin_config: false
+useSSL: false
+is_check: true
+is_socket: false
+is_socket_debug: false
+is_badjs: false
+baidu_mapkey: cMURp5Iy4EFGdGslu4VofGsVUj6zyZ2j
+RongCloud_AppKey: vnroth0kr9y0o
+RongCloud_AppSecret: 0YAD8OBGAcggD
+meiQiaSystemId: 53093
+showOutCustomer: true
+is_lead: true
